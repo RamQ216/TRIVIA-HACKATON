@@ -1,13 +1,21 @@
 import json
 import random
+import os
 
 def cargar_preguntas():
+    # Buscamos el archivo con el nombre exacto que confirmaste
+    archivo = 'PREGUNTAS.JSON'
+    
+    if not os.path.exists(archivo):
+        print(f"Error: No se encuentra el archivo {archivo}")
+        return []
+
     try:
-        with open('PREGUNTAS.json', 'r', encoding='utf-8') as f:
+        # Usamos utf-8-sig para evitar problemas con carácteres invisibles de Windows
+        with open(archivo, 'r', encoding='utf-8-sig') as f:
             data = json.load(f)
-            random.shuffle(data) # Mezcla el orden de las preguntas
+            random.shuffle(data)
             return data
-    except FileNotFoundError:
-        # Preguntas de respaldo por si no encuentran el archivo
-        return [{"pregunta": "Error: PREGUNTAS.json no encontrado", 
-                "opciones": ["A", "B", "C", "D"], "correcta": "A"}]
+    except Exception as e:
+        print(f"Error al leer el JSON: {e}")
+        return []
