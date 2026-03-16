@@ -1,1 +1,289 @@
+[
+{
+    "pregunta": "¿Cuál es el lenguaje de programación que estamos usando?",
+    "opciones": ["Java", "C++", "Python", "JavaScript"],
+    "correcta": "Python",
+    "categoria": "Programación",
+    "curiosidad" : "En visual studio existe una extension que te permite trabajar en bloques con el leguaje python llamado jupyter",
+    "dificultad": "Fácil"
+},
+{
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": ["HyperText Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink Text Mode"],
+    "correcta": "HyperText Markup Language",
+    "categoria": "Web",
+    "curiosidad": " puedes crear elementos desplegables (acordeones) sin usar ni una sola línea de JavaScript.",
+    "dificultad": "Media"
+},  {
+    "pregunta": "¿En qué año se creó Python?",
+    "opciones": ["1985", "1991", "2000", "2010"],
+    "correcta": "1991",
+    "categoria": "Historia",
+    "curiosidad":"puedes cachear resultados automáticamente con un decorador",
+    "dificultad": "Difícil"
+},
+{"pregunta": "¿En qué año se creó Python?",
+    "opciones": ["1985", "1991", "2000", "2010"],
+    "correcta": "1991",
+    "categoria": "Historia",
+    "curiosidad":"puedes cachear resultados automáticamente con un decorador",
+    "dificultad": "Difícil"
+},
+{
+    "pregunta": "¿Cuál es el lenguaje de programación que estamos usando?",
+    "opciones": ["Java", "C++", "Python", "JavaScript"],
+    "correcta": "Python",
+    "categoria": "Programación",
+    "curiosidad" : "En visual studio existe una extension que te permite trabajar en bloques con el leguaje python llamado jupyter",
+    "dificultad": "Fácil"
+},
 
+{
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": ["HyperText Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink Text Mode"],
+    "correcta": "HyperText Markup Language",
+    "categoria": "Programación",
+    "curiosidad": " puedes crear elementos desplegables (acordeones) sin usar ni una sola línea de JavaScript.",
+    "dificultad": "Media"
+},
+
+{
+    "pregunta": "¿En qué año se creó Python?",
+    "opciones": ["1985", "1991", "2000", "2010"],
+    "correcta": "1991",
+    "categoria": "Programación",
+    "curiosidad":"puedes cachear resultados automáticamente con un decorador",
+    "dificultad": "Difícil"
+},
+
+{
+    "pregunta": "¿Qué símbolo se usa normalmente para comentarios de una sola línea en Python?",
+    "opciones": ["//", "#", "--", "/*"],
+    "correcta": "#",
+    "categoria": "Programación",
+    "curiosidad": "Los comentarios ayudan a documentar el código y no se ejecutan cuando el programa corre.",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Qué comando de Git se utiliza para descargar un repositorio remoto?",
+    "opciones": ["git push", "git clone", "git commit", "git merge"],
+    "correcta": "git clone",
+    "categoria": "Programación",
+    "curiosidad": "git clone copia todo el historial del repositorio a tu máquina local.",
+    "dificultad": "Media"
+},
+
+{
+    "pregunta": "¿Qué estructura se utiliza para repetir un bloque de código mientras una condición sea verdadera?",
+    "opciones": ["if", "for", "while", "switch"],
+    "correcta": "while",
+    "categoria": "Programación",
+    "curiosidad": "Un bucle while puede generar loops infinitos si la condición nunca cambia.",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Qué significa API en programación?",
+    "opciones": ["Application Programming Interface", "Advanced Programming Input", "Application Protocol Internet", "Automated Program Interaction"],
+    "correcta": "Application Programming Interface",
+    "categoria": "Programación",
+    "curiosidad": "Las APIs permiten que diferentes programas se comuniquen intercambiando datos, normalmente en formato JSON.",
+    "dificultad": "Media"
+},
+
+{
+    "pregunta": "¿Qué lenguaje de programación se utiliza principalmente para desarrollo web en el navegador?",
+    "opciones": ["Java", "C++", "JavaScript", "Python"],
+    "correcta": "JavaScript",
+    "categoria": "Programación",
+    "curiosidad": "JavaScript es el único lenguaje que todos los navegadores modernos pueden ejecutar directamente.",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Qué estructura de datos almacena pares de clave y valor en Python?",
+    "opciones": ["Lista", "Tupla", "Diccionario", "Pila"],
+    "correcta": "Diccionario",
+    "categoria": "Programación",
+    "curiosidad": "Los diccionarios en Python usan llaves {} y permiten acceder a valores mediante claves.",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Qué comando de Python se usa para mostrar información en la consola?",
+    "opciones": ["echo()", "display()", "print()", "show()"],
+    "correcta": "print()",
+    "categoria": "Programación",
+    "curiosidad": "La función print() es una de las primeras que aprenden los programadores porque permite ver resultados rápidamente.",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Cuál es el lenguaje de programación que estamos usando?",
+    "opciones": ["Java", "C++", "Python", "JavaScript"],
+    "correcta": "Python",
+    "categoria": "Programación",
+    "curiosidad" : "En visual studio existe una extension que te permite trabajar en bloques con el leguaje python llamado jupyter",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": ["HyperText Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink Text Mode"],
+    "correcta": "HyperText Markup Language",
+    "categoria": "Programación",
+    "curiosidad": " puedes crear elementos desplegables (acordeones) sin usar ni una sola línea de JavaScript.",
+    "dificultad": "Media"
+},
+
+{
+    "pregunta": "¿En qué año se creó Python?",
+    "opciones": ["1985", "1991", "2000", "2010"],
+    "correcta": "1991",
+    "categoria": "Programación",
+    "curiosidad":"puedes cachear resultados automáticamente con un decorador",
+    "dificultad": "Difícil"
+},
+
+{
+    "pregunta": "¿Qué símbolo se usa normalmente para comentarios de una sola línea en Python?",
+    "opciones": ["//", "#", "--", "/*"],
+    "correcta": "#",
+    "categoria": "Programación",
+    "curiosidad": "Los comentarios ayudan a documentar el código y no se ejecutan cuando el programa corre.",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Qué comando de Git se utiliza para descargar un repositorio remoto?",
+    "opciones": ["git push", "git clone", "git commit", "git merge"],
+    "correcta": "git clone",
+    "categoria": "Programación",
+    "curiosidad": "git clone copia todo el historial del repositorio a tu máquina local.",
+    "dificultad": "Media"
+},
+
+{
+    "pregunta": "¿Qué estructura se utiliza para repetir un bloque de código mientras una condición sea verdadera?",
+    "opciones": ["if", "for", "while", "switch"],
+    "correcta": "while",
+    "categoria": "Programación",
+    "curiosidad": "Un bucle while puede generar loops infinitos si la condición nunca cambia.",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Qué significa API en programación?",
+    "opciones": ["Application Programming Interface", "Advanced Programming Input", "Application Protocol Internet", "Automated Program Interaction"],
+    "correcta": "Application Programming Interface",
+    "categoria": "Programación",
+    "curiosidad": "Las APIs permiten que diferentes programas se comuniquen intercambiando datos, normalmente en formato JSON.",
+    "dificultad": "Media"
+},
+
+{
+    "pregunta": "¿Qué lenguaje de programación se utiliza principalmente para desarrollo web en el navegador?",
+    "opciones": ["Java", "C++", "JavaScript", "Python"],
+    "correcta": "JavaScript",
+    "categoria": "Programación",
+    "curiosidad": "JavaScript es el único lenguaje que todos los navegadores modernos pueden ejecutar directamente.",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Qué estructura de datos almacena pares de clave y valor en Python?",
+    "opciones": ["Lista", "Tupla", "Diccionario", "Pila"],
+    "correcta": "Diccionario",
+    "categoria": "Programación",
+    "curiosidad": "Los diccionarios en Python usan llaves {} y permiten acceder a valores mediante claves.",
+    "dificultad": "Fácil"
+},
+
+{
+    "pregunta": "¿Qué comando de Python se usa para mostrar información en la consola?",
+    "opciones": ["echo()", "display()", "print()", "show()"],
+    "correcta": "print()",
+    "categoria": "Programación",
+    "curiosidad": "La función print() es una de las primeras que aprenden los programadores porque permite ver resultados rápidamente.",
+    "dificultad": "Fácil"
+},
+{
+    "categoria": "Deporte General",
+    "pregunta": "¿Qué selección ha ganado más Copas del Mundo de la FIFA?",
+    "opciones": ["Alemania", "Italia", "Brasil", "Argentina"],
+    "correcta": "Brasil",
+    "curiosidad": "Brasil es el único país que ha jugado en todos los mundiales de la historia.",
+    "dificultad": "Fácil"
+},
+{
+    "categoria": "Deporte General",
+    "pregunta": "¿Cuántos minutos dura un partido de fútbol reglamentario?",
+    "opciones": ["80 min", "90 min", "100 min", "45 min"],
+    "correcta": "90 min",
+    "curiosidad": "Se divide en dos tiempos de 45, pero el reloj nunca se detiene.",
+    "dificultad": "Fácil"
+},
+{
+    "categoria": "Deporte General",
+    "pregunta": "¿En qué ciudad se celebraron los primeros Juegos Olímpicos modernos?",
+    "opciones": ["Atenas", "París", "Roma", "Londres"],
+    "correcta": "Atenas",
+    "curiosidad": "Ocurrió en 1896 y participaron deportistas de solo 14 países.",
+    "dificultad": "Media"
+},
+{
+    "categoria": "Deporte General",
+    "pregunta": "¿Quién es considerado el máximo anotador de la historia de la NBA?",
+    "opciones": ["Michael Jordan", "Kobe Bryant", "LeBron James", "Shaquille O'Neal"],
+    "correcta": "LeBron James",
+    "curiosidad": "Superó el récord de Kareem Abdul-Jabbar que duró casi 39 años.",
+    "dificultad": "Media"
+},  {
+    "categoria": "Deporte General",
+    "pregunta": "¿Cuál es la distancia de una carrera de Maratón?",
+    "opciones": ["21 km", "42.195 km", "10 km", "50 km"],
+    "correcta": "42.195 km",
+    "curiosidad": "La distancia se fijó así en Londres 1908 para que la meta estuviera frente al palco real.",
+    "dificultad": "Difícil"
+},
+{
+    "categoria": "Deporte General",
+    "pregunta": "¿Qué tenista ha ganado más torneos de Roland Garros?",
+    "opciones": ["Roger Federer", "Novak Djokovic", "Rafael Nadal", "Carlos Alcaraz"],
+    "correcta": "Rafael Nadal",
+    "curiosidad": "Nadal ha ganado 14 veces este torneo sobre tierra batida.",
+    "dificultad": "Media"
+},
+{
+    "categoria": "Deporte General",
+    "pregunta": "¿A qué deporte pertenece el término 'Home Run'?",
+    "opciones": ["Tenis", "Béisbol", "Golf", "Críquet"],
+    "correcta": "Béisbol",
+    "curiosidad": "También se le conoce popularmente como 'cuadrangular'.",
+    "dificultad": "Fácil"
+},
+{
+    "categoria": "Deporte General",
+    "pregunta": "¿Cuántos jugadores hay por equipo en un partido de Voleibol?",
+    "opciones": ["5", "6", "11", "7"],
+    "correcta": "6",
+    "curiosidad": "Originalmente el voleibol se llamaba 'Mintonette'.",
+    "dificultad": "Fácil"
+},
+{
+    "categoria": "Deporte General",
+    "pregunta": "¿Cuál es el estilo de natación más rápido?",
+    "opciones": ["Espalda", "Pecho", "Mariposa", "Crol"],
+    "correcta": "Crol",
+    "curiosidad": "También se le llama 'estilo libre' porque los nadadores suelen elegirlo por su velocidad.",
+    "dificultad": "Media"
+},
+{
+    "categoria": "Deporte General",
+    "pregunta": "¿Quién tiene el récord mundial de los 100 metros lisos?",
+    "opciones": ["Usain Bolt", "Carl Lewis", "Tyson Gay", "Yohan Blake"],
+    "correcta": "Usain Bolt",
+    "curiosidad": "Su récord de 9.58 segundos fue establecido en Berlín 2009.",
+    "dificultad": "Media"}
+]
