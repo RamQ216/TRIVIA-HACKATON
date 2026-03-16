@@ -4,7 +4,7 @@
     "opciones": ["HyperText Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink Text Mode"],
     "correcta": "HyperText Markup Language",
     "categoria": "Programacion",
-    "curiosidad": "Puedes crear elementos desplegables (acordeones) sin usar ni una sola línea de JavaScript.",
+    "curiosidad": "Puedes crear elementos desplegables sin usar JavaScript.",
     "dificultad": "Media"
   },
   {
@@ -12,7 +12,7 @@
     "opciones": ["Java", "C++", "Python", "JavaScript"],
     "correcta": "Python",
     "categoria": "Programacion",
-    "curiosidad": "Python fue nombrado así por el grupo de comedia británico Monty Python, no por la serpiente.",
+    "curiosidad": "Python fue nombrado por el grupo Monty Python.",
     "dificultad": "Fácil"
   },
   {
@@ -20,7 +20,7 @@
     "opciones": ["Un error crítico", "Una estructura que repite código", "Una variable de texto", "Un tipo de monitor"],
     "correcta": "Una estructura que repite código",
     "categoria": "Programacion",
-    "curiosidad": "El primer 'bug' de la historia fue una polilla real atrapada dentro de una computadora en 1947.",
+    "curiosidad": "El primer 'bug' fue una polilla real atrapada en 1947.",
     "dificultad": "Fácil"
   },
   {
@@ -28,7 +28,7 @@
     "opciones": ["Para borrar el código", "Para subir cambios al servidor", "Para instalar Python", "Para apagar la PC"],
     "correcta": "Para subir cambios al servidor",
     "categoria": "Programacion",
-    "curiosidad": "GitHub, donde se usa Git, es la comunidad de programadores más grande del mundo.",
+    "curiosidad": "GitHub es la comunidad de programadores más grande del mundo.",
     "dificultad": "Media"
   },
   {
@@ -36,7 +36,7 @@
     "opciones": ["Un valor que no cambia", "Un espacio para guardar datos", "Un periférico", "Un cable"],
     "correcta": "Un espacio para guardar datos",
     "categoria": "Programacion",
-    "curiosidad": "En Python, no necesitas declarar el tipo de variable; el lenguaje lo deduce solo.",
+    "curiosidad": "En Python, el lenguaje deduce el tipo de variable solo.",
     "dificultad": "Fácil"
   },
   {
@@ -44,7 +44,7 @@
     "opciones": ["El aumento de los precios", "La caída del dólar", "Un tipo de impuesto", "El ahorro bancario"],
     "correcta": "El aumento de los precios",
     "categoria": "Economia",
-    "curiosidad": "Hungría tuvo la inflación más alta de la historia en 1946; los precios se duplicaban cada 15 horas.",
+    "curiosidad": "Hungría tuvo la inflación más alta de la historia en 1946.",
     "dificultad": "Fácil"
   },
   {
@@ -52,7 +52,7 @@
     "opciones": ["Precio Interno Bruto", "Producto Interno Bruto", "Plan de Inversión Bancaria", "Producción Industrial Básica"],
     "correcta": "Producto Interno Bruto",
     "categoria": "Economia",
-    "curiosidad": "El PIB mide el valor de todos los bienes y servicios producidos por un país en un año.",
+    "curiosidad": "El PIB mide el valor de todos los bienes y servicios producidos por un país.",
     "dificultad": "Media"
   },
   {
@@ -60,15 +60,15 @@
     "opciones": ["Muchos vendedores pequeños", "Un solo vendedor", "Pocos vendedores grandes", "No existen vendedores"],
     "correcta": "Pocos vendedores grandes",
     "categoria": "Economia",
-    "curiosidad": "Las empresas de telefonía móvil suelen ser un ejemplo clásico de oligopolio en muchos países.",
+    "curiosidad": "Las telefonías móviles son un ejemplo clásico de oligopolio.",
     "dificultad": "Difícil"
   },
   {
     "pregunta": "¿Qué es el 'interés compuesto'?",
-    "opciones": ["Interés solo sobre el capital", "Interés sobre el capital más intereses previos", "Un impuesto al lujo", "Un préstamo sin retorno"],
-    "correcta": "Interés sobre el capital más intereses previos",
+    "opciones": ["Interés sobre el capital", "Interés sobre capital más intereses previos", "Un impuesto", "Un préstamo"],
+    "correcta": "Interés sobre capital más intereses previos",
     "categoria": "Economia",
-    "curiosidad": "Albert Einstein supuestamente llamó al interés compuesto la octava maravilla del mundo.",
+    "curiosidad": "Einstein lo llamó la octava maravilla del mundo.",
     "dificultad": "Media"
   },
   {
@@ -76,7 +76,7 @@
     "opciones": ["Vende electrodomésticos", "Emite la moneda del país", "Es un banco para personas", "Limpia las calles"],
     "correcta": "Emite la moneda del país",
     "categoria": "Economia",
-    "curiosidad": "El Banco de Suecia es considerado el banco central más antiguo del mundo, fundado en 1668.",
+    "curiosidad": "El Banco de Suecia es el más antiguo del mundo (1668).",
     "dificultad": "Fácil"
   },
   {
@@ -84,7 +84,7 @@
     "opciones": ["Francia", "Argentina", "Brasil", "Alemania"],
     "correcta": "Argentina",
     "categoria": "Deporte",
-    "curiosidad": "Fue la primera vez que un mundial se jugó en territorio árabe y en época navideña.",
+    "curiosidad": "Fue el primer mundial en territorio árabe y en navidad.",
     "dificultad": "Fácil"
   },
   {
@@ -92,7 +92,7 @@
     "opciones": ["5", "11", "7", "6"],
     "correcta": "5",
     "categoria": "Deporte",
-    "curiosidad": "El baloncesto fue inventado por un profesor de educación física canadiense en 1891.",
+    "curiosidad": "Se inventó en 1891 por un profesor de educación física.",
     "dificultad": "Fácil"
   },
   {
@@ -100,7 +100,7 @@
     "opciones": ["Fútbol", "Golf", "Tenis", "Rugby"],
     "correcta": "Tenis",
     "categoria": "Deporte",
-    "curiosidad": "Wimbledon es el torneo de tenis más antiguo del mundo y se juega obligatoriamente de blanco.",
+    "curiosidad": "Es el más antiguo y se juega obligatoriamente de blanco.",
     "dificultad": "Fácil"
   },
   {
@@ -108,7 +108,7 @@
     "opciones": ["10 km", "42.195 km", "21 km", "100 km"],
     "correcta": "42.195 km",
     "categoria": "Deporte",
-    "curiosidad": "La distancia se fijó en 1908 para que la carrera pasara frente al palco de la reina de Inglaterra.",
+    "curiosidad": "La distancia se fijó para pasar frente al palco real en 1908.",
     "dificultad": "Media"
   },
   {
@@ -116,7 +116,7 @@
     "opciones": ["Hockey sobre hielo", "Béisbol", "Lacrosse", "Waterpolo"],
     "correcta": "Hockey sobre hielo",
     "categoria": "Deporte",
-    "curiosidad": "Originalmente, los discos de hockey eran trozos de madera cuadrados antes de ser de caucho.",
+    "curiosidad": "Originalmente los discos eran trozos de madera cuadrados.",
     "dificultad": "Media"
   }
 ]
