@@ -26,6 +26,7 @@ class VistaTrivia:
             font=("Segoe UI", 16, "bold"), bg="#F8F9FA", fg="#333333"
         ).pack(pady=50)
 
+        # Usamos los nombres exactos que están en tu JSON actual
         temas = ["Programacion", "Economia", "Deporte"]
         for tema in temas:
             btn = tk.Button(
@@ -35,6 +36,7 @@ class VistaTrivia:
                 command=lambda t=tema: self.callback_tema(t)
             )
             btn.pack(pady=10)
+            # ... resto del código de binds ...
             btn.bind("<Enter>", lambda e, b=btn: b.config(bg="#E3F2FD"))
             btn.bind("<Leave>", lambda e, b=btn: b.config(bg=self.color_blanco))
 
