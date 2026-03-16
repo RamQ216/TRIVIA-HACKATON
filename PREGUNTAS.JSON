@@ -1,22 +1,26 @@
-class MotorJuego:
-    def __init__(self, lista_preguntas):
-        self.preguntas = lista_preguntas
-        self.puntuacion = 0
-        self.vidas = 3
-        self.indice = 0
-
-    def obtener_pregunta_actual(self):
-        return self.preguntas[self.indice]
-
-    def validar_respuesta(self, respuesta_usuario):
-        correcta = self.preguntas[self.indice]["correcta"]
-        if respuesta_usuario == correcta:
-            self.puntuacion += 10
-            return True
-        else:
-            self.vidas -= 1
-            return False
-
-    def tiene_mas_preguntas(self):
-        # Permitimos avanzar si el índice actual aún no es el último
-        return self.indice < len(self.preguntas) - 1 and self.vidas > 0
+[
+  {
+    "pregunta": "¿Cuál es el lenguaje de programación que estamos usando?",
+    "opciones": ["Java", "C++", "Python", "JavaScript"],
+    "correcta": "Python",
+    "categoria": "Programación",
+    "curiosidad" : "En visual studio existe una extension que te permite trabajar en bloques con el leguaje python llamado jupyter",
+    "dificultad": "Fácil"
+  },
+  {
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": ["HyperText Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink Text Mode"],
+    "correcta": "HyperText Markup Language",
+    "categoria": "Web",
+    "curiosidad": " puedes crear elementos desplegables (acordeones) sin usar ni una sola línea de JavaScript.",
+    "dificultad": "Media"
+  },
+  {
+    "pregunta": "¿En qué año se creó Python?",
+    "opciones": ["1985", "1991", "2000", "2010"],
+    "correcta": "1991",
+    "categoria": "Historia",
+    "curiosidad":"puedes cachear resultados automáticamente con un decorador",
+    "dificultad": "Difícil"
+  }
+]
