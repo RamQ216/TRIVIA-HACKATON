@@ -1,7 +1,21 @@
+import unicodedata
+
+def normalizar(texto):
+    """Elimina tildes y convierte a minúsculas para comparar correctamente."""
+    if not texto: return ""
+    return "".join(
+        c for c in unicodedata.normalize('NFD', str(texto))
+        if unicodedata.category(c) != 'Mn'
+    ).lower().strip()
+
 class MotorJuego:
     def __init__(self, lista_preguntas, tematica):
-        # Filtramos por categoría (asegúrate que coincida con el JSON)
-        self.preguntas = [p for p in lista_preguntas if p.get("categoria") == tematica]
+        tema_buscado = normalizar(tematica)
+        # Filtramos comparando ambas versiones normalizadas
+        self.preguntas = [
+            p for p in lista_preguntas 
+            if normalizar(p.get("categoria", "")) == tema_buscado
+        ]
         self.puntuacion = 0
         self.vidas = 3
         self.indice = 0
@@ -19,4 +33,5 @@ class MotorJuego:
             return False
 
     def tiene_mas_preguntas(self):
-        return self.indice < len(self.preguntas) - 1 and self.vidas > 0
+        # Corregido para que permita llegar a la última pregunta correctamente
+        return (self.indice + 1) < len(self.preguntas) and self.vidas > 0
