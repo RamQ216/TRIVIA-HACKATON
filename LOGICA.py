@@ -1,6 +1,7 @@
 class MotorJuego:
-    def __init__(self, lista_preguntas):
-        self.preguntas = lista_preguntas
+    def __init__(self, lista_preguntas, tematica):
+        # Filtramos por categoría (asegúrate que coincida con el JSON)
+        self.preguntas = [p for p in lista_preguntas if p.get("categoria") == tematica]
         self.puntuacion = 0
         self.vidas = 3
         self.indice = 0
@@ -18,5 +19,4 @@ class MotorJuego:
             return False
 
     def tiene_mas_preguntas(self):
-        # Permitimos avanzar si el índice actual aún no es el último
         return self.indice < len(self.preguntas) - 1 and self.vidas > 0
