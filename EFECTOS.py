@@ -19,4 +19,4 @@ class ManejadorSonidos:
                 # Si falla, el bloque try-except evitará que el juego se cierre.
                 pygame.mixer.Sound(ruta).play()
             except:
-                pass
+                    pass
