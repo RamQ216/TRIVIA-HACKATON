@@ -4,7 +4,7 @@
     "opciones": ["HyperText Markup Language", "High Tech Modern Language", "Home Tool Markup Language", "Hyperlink Text Mode"],
     "correcta": "HyperText Markup Language",
     "categoria": "Programacion",
-    "curiosidad": "Puedes crear elementos desplegables sin usar JavaScript.",
+    "curiosidad": "Usa etiquetas semánticas como <header> o <main> para que Google indexe mejor tu web y aparezca en los primeros resultados.",
     "dificultad": "Media"
   },
   {
@@ -12,7 +12,7 @@
     "opciones": ["Java", "C++", "Python", "JavaScript"],
     "correcta": "Python",
     "categoria": "Programacion",
-    "curiosidad": "Python fue nombrado por el grupo Monty Python.",
+    "curiosidad": "Escribir nombres de variables claros (ej: 'precio_total') hace que tu código sea fácil de entender para otros y para ti mismo en el futuro.",
     "dificultad": "Fácil"
   },
   {
@@ -20,7 +20,7 @@
     "opciones": ["Un error crítico", "Una estructura que repite código", "Una variable de texto", "Un tipo de monitor"],
     "correcta": "Una estructura que repite código",
     "categoria": "Programacion",
-    "curiosidad": "El primer 'bug' fue una polilla real atrapada en 1947.",
+    "curiosidad": "Automatiza tareas repetitivas en tu PC (como renombrar 100 archivos) usando bucles sencillos para ahorrar horas de trabajo manual.",
     "dificultad": "Fácil"
   },
   {
@@ -28,7 +28,7 @@
     "opciones": ["Para borrar el código", "Para subir cambios al servidor", "Para instalar Python", "Para apagar la PC"],
     "correcta": "Para subir cambios al servidor",
     "categoria": "Programacion",
-    "curiosidad": "GitHub es la comunidad de programadores más grande del mundo.",
+    "curiosidad": "Haz 'push' de tus avances diariamente para tener una copia de seguridad en la nube y evitar perder todo si tu computadora se rompe.",
     "dificultad": "Media"
   },
   {
@@ -36,7 +36,7 @@
     "opciones": ["Un valor que no cambia", "Un espacio para guardar datos", "Un periférico", "Un cable"],
     "correcta": "Un espacio para guardar datos",
     "categoria": "Programacion",
-    "curiosidad": "En Python, el lenguaje deduce el tipo de variable solo.",
+    "curiosidad": "Guardar datos en variables te permite cambiar un valor en un solo lugar y que se actualice automáticamente en todo tu programa.",
     "dificultad": "Fácil"
   },
   {
@@ -44,7 +44,7 @@
     "opciones": ["El aumento de los precios", "La caída del dólar", "Un tipo de impuesto", "El ahorro bancario"],
     "correcta": "El aumento de los precios",
     "categoria": "Economia",
-    "curiosidad": "Hungría tuvo la inflación más alta de la historia en 1946.",
+    "curiosidad": "Para protegerte de la inflación, evita guardar grandes sumas de efectivo 'bajo el colchón' e invierte en activos que mantengan su valor.",
     "dificultad": "Fácil"
   },
   {
@@ -52,7 +52,7 @@
     "opciones": ["Precio Interno Bruto", "Producto Interno Bruto", "Plan de Inversión Bancaria", "Producción Industrial Básica"],
     "correcta": "Producto Interno Bruto",
     "categoria": "Economia",
-    "curiosidad": "El PIB mide el valor de todos los bienes y servicios producidos por un país.",
+    "curiosidad": "Si el PIB de tu país crece, suele haber más ofertas de empleo y mejores oportunidades para emprender un negocio.",
     "dificultad": "Media"
   },
   {
@@ -60,7 +60,7 @@
     "opciones": ["Muchos vendedores pequeños", "Un solo vendedor", "Pocos vendedores grandes", "No existen vendedores"],
     "correcta": "Pocos vendedores grandes",
     "categoria": "Economia",
-    "curiosidad": "Las telefonías móviles son un ejemplo clásico de oligopolio.",
+    "curiosidad": "En mercados con poca competencia, como las telefónicas, comparar planes a fondo es clave para no pagar de más por un servicio básico.",
     "dificultad": "Difícil"
   },
   {
@@ -68,7 +68,7 @@
     "opciones": ["Interés sobre el capital", "Interés sobre capital más intereses previos", "Un impuesto", "Un préstamo"],
     "correcta": "Interés sobre capital más intereses previos",
     "categoria": "Economia",
-    "curiosidad": "Einstein lo llamó la octava maravilla del mundo.",
+    "curiosidad": "Empezar a ahorrar cantidades pequeñas desde joven rinde mucho más que ahorrar grandes sumas tarde, gracias a que el interés se acumula.",
     "dificultad": "Media"
   },
   {
@@ -76,7 +76,7 @@
     "opciones": ["Vende electrodomésticos", "Emite la moneda del país", "Es un banco para personas", "Limpia las calles"],
     "correcta": "Emite la moneda del país",
     "categoria": "Economia",
-    "curiosidad": "El Banco de Suecia es el más antiguo del mundo (1668).",
+    "curiosidad": "Cuando el Banco Central sube las tasas de interés, los préstamos se vuelven más caros, pero tus ahorros en el banco rinden un poco más.",
     "dificultad": "Fácil"
   },
   {
@@ -84,7 +84,7 @@
     "opciones": ["Francia", "Argentina", "Brasil", "Alemania"],
     "correcta": "Argentina",
     "categoria": "Deporte",
-    "curiosidad": "Fue el primer mundial en territorio árabe y en navidad.",
+    "curiosidad": "Practicar deportes de equipo como el fútbol mejora tu capacidad de comunicación y resolución de conflictos en el ámbito laboral.",
     "dificultad": "Fácil"
   },
   {
@@ -92,7 +92,7 @@
     "opciones": ["5", "11", "7", "6"],
     "correcta": "5",
     "categoria": "Deporte",
-    "curiosidad": "Se inventó en 1891 por un profesor de educación física.",
+    "curiosidad": "El baloncesto es uno de los mejores ejercicios para mejorar la coordinación ojo-mano y quemar calorías de forma rápida y divertida.",
     "dificultad": "Fácil"
   },
   {
@@ -100,7 +100,7 @@
     "opciones": ["Fútbol", "Golf", "Tenis", "Rugby"],
     "correcta": "Tenis",
     "categoria": "Deporte",
-    "curiosidad": "Es el más antiguo y se juega obligatoriamente de blanco.",
+    "curiosidad": "Deportes de raqueta como el tenis ayudan a mantener los reflejos y la agilidad mental activos durante mucho más tiempo al envejecer.",
     "dificultad": "Fácil"
   },
   {
@@ -108,7 +108,7 @@
     "opciones": ["10 km", "42.195 km", "21 km", "100 km"],
     "correcta": "42.195 km",
     "categoria": "Deporte",
-    "curiosidad": "La distancia se fijó para pasar frente al palco real en 1908.",
+    "curiosidad": "Si corres, usa calzado con buena amortiguación y reemplázalo cada 600-800km para evitar lesiones crónicas en tus rodillas.",
     "dificultad": "Media"
   },
   {
@@ -116,7 +116,7 @@
     "opciones": ["Hockey sobre hielo", "Béisbol", "Lacrosse", "Waterpolo"],
     "correcta": "Hockey sobre hielo",
     "categoria": "Deporte",
-    "curiosidad": "Originalmente los discos eran trozos de madera cuadrados.",
+    "curiosidad": "Realizar actividad física intensa de forma regular ayuda a reducir drásticamente los niveles de cortisol, la hormona del estrés.",
     "dificultad": "Media"
   }
 ]
